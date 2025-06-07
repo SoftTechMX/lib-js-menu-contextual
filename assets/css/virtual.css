@@ -1469,3 +1469,8 @@ a:active {
 .theme-purple .theme-list li::before {
     border-color: #6f42c1;
 }
+
+.google-map iframe{
+    width: 100%;
+    height: 400px;
+}
